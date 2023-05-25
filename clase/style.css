@@ -1,0 +1,78 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&family=Noto+Sans+TC:wght@100&family=Vina+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:darkkhaki
+}
+
+.yo {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+background-color:darkkhaki
+    }
+
+.item{
+    font-family: 'Vina Sans', cursive;
+    font-size: 25px;
+}
+.titulo{
+    font-size: 40px;
+    font-family: 'Castoro Titling', cursive;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Vina Sans', cursive;
+    text-align: center;
+}
+
+.subtitulo{
+    color: brown;
+    font-size: 40px;
+    font-family: 'Castoro Titling', cursive;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Vina Sans', cursive;
+    text-align: center;
+}
+
+.navegador{
+    list-style: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+background-color:darkkhaki(173, 167, 92)
+}
+.footer{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+background-color:darkkhaki
+} 
+.pais2{
+    color: darkred;
+    text-align: center;
+    display: flex;
+   justify-content: center;
+background-color:darkkhaki
+}
+.pais{
+    color: darkred;
+    list-style: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+background-color:darkkhaki
+}
+.imagenes{
+    text-align: center;
+}
+
+.item{
+    color:firebrick
+}
+
+
+

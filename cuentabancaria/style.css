@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+*{
+    margin: 20px;
+    padding: 0px;
+}
+body{
+    background-color:#BFCCB5;
+}
+.principal{
+    font-family: 'Sigmar', cursive;
+    text-align: center;
+    background-color:#8BACAA;
+    font-size: 60px;
+}
+.movimientos{
+    font-family: 'Sigmar', cursive;
+    color:#ED2B2A;
+    border-style: double;
+}
+.ultimos-movimientos{
+    font-family: 'Sigmar', cursive;
+    text-align: center;
+    font-size: 25px;
+    background-color:#569DAA;
+}
+.opciones{
+    font-family: 'Sigmar', cursive;
+    list-style: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+background-color:#7C96AB;
+}
+
+.pago{
+    color: green;
+}
