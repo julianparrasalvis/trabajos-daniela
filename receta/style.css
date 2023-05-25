@@ -1,0 +1,26 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+.receta{
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    background-color: antiquewhite;
+    color: brown;
+    
+}
+.ingredientes{
+    font-family: 'Bebas Neue', sans-serif;
+    margin: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 24px;
+}
+.instrucciones{
+    font-family: 'Bebas Neue', sans-serif;
+    margin: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 20px;
+}

@@ -1,0 +1,56 @@
+.contenedor-principal{
+    text-align:center;
+
+    
+    width: 150px; /*tamaño del ancho*/
+    
+
+}
+
+.nombre{
+    text-align: center;
+    color:brown; /*color de la fuente*/
+    font-size: 60px;/*tamaño de la fuente*/
+
+    
+
+}
+
+
+.profesion{
+    text-align: center;
+ 
+    font-size: 50px;/*tamaño de la fuente*/
+    color: black;
+    
+}
+
+
+.yo{
+    text-align: center;
+    width:150px ; 
+    
+        
+    
+    
+    }
+    
+
+.pais{
+    color: brown;
+    width: 100px; /*tamaño del ancho*/
+    }
+
+
+    .pais2{
+        width: 200px;
+        }
+    
+    
+
+    
+        
+
+
+    
+
